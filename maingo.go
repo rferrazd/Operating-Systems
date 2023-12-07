@@ -67,3 +67,12 @@ func main() {
 
 
 }
+
+// deadlock cycles request, using, request, using
+
+// Deadlock prevention: 
+
+// Banker's Algorithm: 
+
+	//multiple instnce, each process must a priori
+
